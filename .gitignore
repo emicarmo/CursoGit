@@ -1,6 +1,7 @@
 #Mis archivos que no quiero hacer el seguimiento
 clase01/
 *.txt
+Certificado/
 
 # Logs
 logs
